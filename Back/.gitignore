@@ -1,0 +1,40 @@
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+### back ###
+/ucj_test_2.log
+/.mvn
+/.idea/
+.idea/
+/HELP.md
+/mvnw
+/mvnw.cmd
+/sise-ucj.iml
+/target/
+ucj_test_2.log
